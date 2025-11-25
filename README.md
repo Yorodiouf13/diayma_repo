@@ -28,16 +28,27 @@ J'ai installé le sdk au lancement de visual studio car ça apparaissait au nive
 **2ème bug :** La langue espagnol donne toujours du français et pas de l’espagnol 
 
 ## Question 7: Placer un point d'arrêt sur les lignes de code 
+
 ### a)  CartSummaryViewComponent ligne 12
+
 <img width="625" height="305" alt="image" src="https://github.com/user-attachments/assets/84d5b421-0ed5-41f1-9bf1-57df467a439a" />
+
 ### b)	ProductController ligne 15
+
 <img width="620" height="355" alt="image" src="https://github.com/user-attachments/assets/798376af-4535-4d62-9fc1-9fcd93d6d7d0" />
+
 ### c)	OrderController ligne 17
+
 <img width="625" height="328" alt="image" src="https://github.com/user-attachments/assets/1d26b3ef-2807-427d-b8b2-08b6cae71a17" />
+
 ### d)	CartController ligne 15
+
 <img width="620" height="329" alt="image" src="https://github.com/user-attachments/assets/8211630c-6fd9-49dc-a254-3acd6f34e546" />
+
 ### e)	Startup ligne 20
+
  <img width="622" height="409" alt="image" src="https://github.com/user-attachments/assets/3b7237db-12b3-46d3-afa7-1e09a71da34d" />
+
 
 ## Question 8: Quels sont les namespaces, classes et méthodes visités avant l’affichage des produits sur l’écran d’accueil de votre navigateur ?
 **Mode utilisé : F10 (Pas à pas principal)** → pour rester dans le flux de notre application sans entrer dans le code de Microsoft.
@@ -68,11 +79,13 @@ J'ai installé le sdk au lancement de visual studio car ça apparaissait au nive
 **Méthode finale responsable de l’affichage des produits : `ProductController.Index()`**
 
 ## Question 9: Déploiement de la solution 
+
 <img width="446" height="127" alt="image" src="https://github.com/user-attachments/assets/a5c76538-e28e-4a47-aaae-3f4bf5f86fea" />
+
 <img width="672" height="341" alt="image" src="https://github.com/user-attachments/assets/b9fe1afb-9976-4fda-b656-eb0b9cfa0d12" />
 
 
-## Question 10: Lien du fichier.exe
+## Question 10: Lien Google drive
 **Lien :** https://drive.google.com/file/d/1WdgPgYdjaHbLJmo7yovoVaEtqZSVZPZu/view?usp=sharing
 
 
