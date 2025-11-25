@@ -2,12 +2,14 @@
 # Oumar Yoro DIOUF M2GLSI
 
 ## Question 1: Récupérez dans Visual Studio et exécutez le code fourni.
+
 <img width="945" height="457" alt="image" src="https://github.com/user-attachments/assets/98e54519-a4a7-48b4-9149-e435d0f2b648" />
 
 <img width="945" height="498" alt="image" src="https://github.com/user-attachments/assets/3fce60f7-6698-4fc6-aa4c-49bb3b0ec492" />
 
 ## Question 2: Quels sont les projets de la solution ?
 <img width="420" height="422" alt="image" src="https://github.com/user-attachments/assets/9aa766ee-9c0c-40f7-9b1d-9ac08eca6f53" />
+
 il y'a un seul projet dans la solution : Diayma
 
 ## Question 3: Quelle est la version SDK.NET utilisée par ces projets 
@@ -18,6 +20,7 @@ J'ai installé le sdk au lancement de visual studio car ça apparaissait au nive
 
 ## Question 5: Créer un dépot Github pour y stocker le code 
 **Lien du repo github :** https://github.com/Yorodiouf13/diayma_repo.git
+
 <img width="945" height="374" alt="image" src="https://github.com/user-attachments/assets/34eaeb4d-52ab-4bfb-aa10-5a27f8d6e0e9" />
 
 ## Question 6: Explorez l’application. Signalez 2 bugs trouvés ?
