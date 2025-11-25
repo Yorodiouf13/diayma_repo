@@ -1,5 +1,5 @@
 # Boutique Diayma
-# Oumar Yoro DIOUF M2GSI
+# Oumar Yoro DIOUF M2GLSI
 
 ## Question 1: Récupérez dans Visual Studio et exécutez le code fourni.
 <img width="945" height="457" alt="image" src="https://github.com/user-attachments/assets/98e54519-a4a7-48b4-9149-e435d0f2b648" />
